@@ -4,7 +4,7 @@
 Arcane Unlocker is a simple script, meant to be ran in the console of your web browser of choice.
 It'll unlock all the mission rewards from the Arcane Browser Game. 
 
-This currently includes 3 epic skins & an exclusive icon.
+This currently includes 3 epic+ skins, 2 TFT Eggs & an exclusive icon.
 
 
 
