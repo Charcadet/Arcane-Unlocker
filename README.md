@@ -48,3 +48,6 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
+## RiotX Arcane Site Concluding December 15 @ 5:00pm PT
+
+The RiotX Arcane Experience website will be shutting down on December 15 at 5:00pm PT. After this period, mission-based rewards will no longer be granted.
